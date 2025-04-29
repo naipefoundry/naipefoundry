@@ -1,9 +1,7 @@
 # 🐢 Naipe Foundry
 
-**Sin Prisa Pero Sin Pausa.**  
-Type made in Brazil — with attitude and intention.
-
----
+### **Sin Prisa Pero Sin Pausa.**  
+### Type made in Brazil — with attitude and intention.
 
 ## 👾 About 
 
@@ -31,21 +29,17 @@ If you’ve got a script to share or a fork of a font, feel free to open an issu
 
 Let’s build things slowly and well.
 
----
 
 ## 🪧 License
 
 Scripts are typically released under the MIT License.  
 Fonts may vary — check individual folders for license info.
 
----
 
 ## 📡 Links
 
 - 🌐 Website: [naipefoundry.com](https://naipefoundry.com)  
 - 📷 Instagram: [@naipefoundry](https://instagram.com/naipefoundry)
-
----
 
 ## 🖖 Obrigado
 
