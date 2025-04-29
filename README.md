@@ -1,7 +1,7 @@
 # 🐢 Naipe Foundry
 
-###**Sin Prisa Pero Sin Pausa.**  
-###Type made in Brazil — with attitude and intention.
+##**Sin Prisa Pero Sin Pausa.**  
+##Type made in Brazil — with attitude and intention.
 
 ---
 
